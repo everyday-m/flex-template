@@ -426,6 +426,12 @@
         "enabled": false,
         "exclude_attributes": [],
         "exclude_queues": []
+      },
+      "escalate_to_admin": {
+        "enabled": false
+      },
+      "redirect_call_to_mobile": {
+        "enabled": true
       }
     }
   }

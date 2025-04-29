@@ -4,7 +4,11 @@
     "rootDir": ".",
     "outDir": "build",
     "target": "esnext",
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
@@ -20,6 +24,8 @@
     "noUnusedLocals": false,
     "noUnusedParameters": false
   },
-  "include": ["./src/**/*"],
+  "include": [
+    "./src/**/*"
+  ],
   "exclude": []
 }
